@@ -1,0 +1,9 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+vendor/
+*.gem
+*.log
+Gemfile.lock
+npm-debug.log
